@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Context>
+	<Resource name="jdbc/p12015stroop"
+            auth="Container"
+            type="javax.sql.DataSource"
+            username="p12015stroop"
+            password="gp12015stroop"
+            driverClassName="com.mysql.jdbc.Driver"
+            url="jdbc:mysql://164.8.251.196:3306/p12015stroop"
+            maxActive="8"
+            maxIdle="4"/>
+</Context> 
